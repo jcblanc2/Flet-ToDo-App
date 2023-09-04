@@ -10,7 +10,7 @@ The `Flet ToDo App` is a cross-platform task management application built with t
 
 ## Installation
 
-To run the Flet ToDo App, you need to have Python and the Flet library installed. Follow these steps to get started:
+To run the Flet ToDo App, you must have Python and the Flet library installed. Follow these steps to get started:
 
 1. Clone the repository:
 
